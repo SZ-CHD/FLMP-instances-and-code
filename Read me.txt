@@ -1,0 +1,6 @@
+DDPBP is the source code of the double-decomposition based parallel exact algorithm.
+BAP_Following_Step_5 and _6 are the forward and backward search process of DDPBP.
+You need to manually open the Matlab parallel pool with at least two cores available, before running DDPBP.
+Please make sure that all the components are in the same folder when running DDPBP.
+
+
